@@ -1,10 +1,11 @@
 {
-  "homepage": "https://Endalkachewe.github.io/Netflix-Clone",
+  "homepage": "https://Endalkachewe.github.io/Netflix-Clone-New/",
   "name": "react-app-netflix",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
