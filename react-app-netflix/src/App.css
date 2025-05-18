@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 .app {
-  background-color: #ded7d7;
+  background-color: black;
 }
-:root {
+/* :root {
   --font-base: "lexend", sans-serif;
   --font-second-base: "inter", sans-serif;
   --bg-color: #d7cfcf;
@@ -16,4 +16,4 @@
 }
 body {
   background: black;
-}
+} */
