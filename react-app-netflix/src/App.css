@@ -2,7 +2,7 @@
 .app {
   background-color: black;
 }
-/* :root {
+:root {
   --font-base: "lexend", sans-serif;
   --font-second-base: "inter", sans-serif;
   --bg-color: #d7cfcf;
@@ -16,4 +16,4 @@
 }
 body {
   background: black;
-} */
+}
